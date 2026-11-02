@@ -6,6 +6,9 @@ require("dotenv").config();
 const connectDB = require("./config/db");
 const healthcareRoutes = require("./routes/healthcare");
 
+
+    const PORT = process.env.PORT || 6100;
+
 const app = express();
 
 app.use(cors());
@@ -25,9 +28,10 @@ async function startServer() {
         });
     });
 
-    app.listen(process.env.PORT || 5000, () => {
-        console.log("Server running on port 6100");
-    });
+
+app.listen(PORT, "0.0.0.0", () => {
+    console.log(`Server running on port ${PORT}`);
+});
 }
 
 startServer().catch(console.error);

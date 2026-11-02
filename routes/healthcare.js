@@ -1,6 +1,7 @@
 
 const express = require("express");
 const router = express.Router();
+const { ObjectId } = require("mongodb");
 
 const allowedCollections = [
     "patients",
@@ -13,86 +14,107 @@ const allowedCollections = [
     "encounters"
 ];
 
-// GET all records with pagination
+// ==========================================
+// GET ALL RECORDS FROM A COLLECTION
+// ==========================================
+
 router.get("/:collection", async (req, res) => {
 
     try {
         const { collection } = req.params;
 
+        // Validate collection
         if (!allowedCollections.includes(collection)) {
             return res.status(400).json({
+                success: false,
                 message: "Invalid collection"
             });
         }
 
-        const page = Math.max(1, Number(req.query.page) || 1);
-        const limit = Math.min(
-            100,
-            Math.max(1, Number(req.query.limit) || 20)
-        );
-
         const db = req.app.locals.db;
 
-        const data = await db.collection(collection)
+        // Fetch ALL records without pagination
+        const data = await db
+            .collection(collection)
             .find({})
-            .skip((page - 1) * limit)
-            .limit(limit)
             .toArray();
 
-        const totalRecords = await db.collection(collection)
-            .countDocuments();
-
-        res.json({
-            collection,
-            page,
-            limit,
-            totalRecords,
-            totalPages: Math.ceil(totalRecords / limit),
-            data
+        res.status(200).json({
+            success: true,
+            collection: collection,
+            totalRecords: data.length,
+            data: data
         });
 
     } catch (error) {
+
+        console.error("Fetch Error:", error);
+
         res.status(500).json({
-            message: error.message
+            success: false,
+            message: "Failed to fetch records",
+            error: error.message
         });
     }
 });
 
-// GET record by MongoDB ID
+
+// ==========================================
+// GET SINGLE RECORD BY MONGODB ID
+// ==========================================
+
 router.get("/:collection/id/:id", async (req, res) => {
 
     try {
-        const { ObjectId } = require("mongodb");
+
         const { collection, id } = req.params;
 
+        // Validate collection
         if (!allowedCollections.includes(collection)) {
             return res.status(400).json({
+                success: false,
                 message: "Invalid collection"
             });
         }
 
+        // Validate MongoDB ObjectId
         if (!ObjectId.isValid(id)) {
             return res.status(400).json({
+                success: false,
                 message: "Invalid MongoDB ID"
             });
         }
 
         const db = req.app.locals.db;
 
-        const record = await db.collection(collection)
-            .findOne({ _id: new ObjectId(id) });
+        // Find single record
+        const record = await db
+            .collection(collection)
+            .findOne({
+                _id: new ObjectId(id)
+            });
 
         if (!record) {
             return res.status(404).json({
+                success: false,
                 message: "Record not found"
             });
         }
 
-        res.json(record);
+        res.status(200).json({
+            success: true,
+            collection: collection,
+            data: record
+        });
 
     } catch (error) {
+
+        console.error("Find Error:", error);
+
         res.status(500).json({
-            message: error.message
+            success: false,
+            message: "Failed to fetch record",
+            error: error.message
         });
     }
 });
