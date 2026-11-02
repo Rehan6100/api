@@ -1,0 +1,501 @@
+hospital_id,hospital_name,city,state,bed_capacity,hospital_type
+H0001,Sunrise Hospital 0001,Kolhapur,Karnataka,30,Speciality
+H0002,City Care Hospital 0002,Latur,Maharashtra,500,Speciality
+H0003,Apollo Hospital 0003,Aurangabad,Madhya Pradesh,100,Multi-speciality
+H0004,Metro Hospital 0004,Kolhapur,Telangana,50,General
+H0005,Unity Hospital 0005,Solapur,Madhya Pradesh,200,Multi-speciality
+H0006,Sunrise Hospital 0006,Nagpur,Gujarat,300,Multi-speciality
+H0007,Wellness Hospital 0007,Latur,Karnataka,300,General
+H0008,Unity Hospital 0008,Nagpur,Madhya Pradesh,100,Speciality
+H0009,Unity Hospital 0009,Solapur,Karnataka,500,General
+H0010,Apollo Hospital 0010,Nagpur,Gujarat,75,Speciality
+H0011,Wellness Hospital 0011,Nagpur,Karnataka,75,General
+H0012,Sunrise Hospital 0012,Mumbai,Maharashtra,200,Multi-speciality
+H0013,Apollo Hospital 0013,Kolhapur,Madhya Pradesh,500,Speciality
+H0014,Wellness Hospital 0014,Latur,Telangana,200,General
+H0015,City Care Hospital 0015,Nanded,Madhya Pradesh,150,Speciality
+H0016,Unity Hospital 0016,Nagpur,Maharashtra,150,Speciality
+H0017,Sunrise Hospital 0017,Pune,Maharashtra,300,Speciality
+H0018,Sunrise Hospital 0018,Solapur,Karnataka,300,General
+H0019,Sahyadri Hospital 0019,Solapur,Gujarat,150,Multi-speciality
+H0020,Apollo Hospital 0020,Nanded,Karnataka,75,Multi-speciality
+H0021,Sahyadri Hospital 0021,Nagpur,Karnataka,500,Multi-speciality
+H0022,Sahyadri Hospital 0022,Nashik,Maharashtra,75,General
+H0023,Unity Hospital 0023,Solapur,Karnataka,200,Multi-speciality
+H0024,Unity Hospital 0024,Mumbai,Telangana,200,Multi-speciality
+H0025,Metro Hospital 0025,Jalna,Karnataka,75,Speciality
+H0026,Sunrise Hospital 0026,Nashik,Telangana,150,Speciality
+H0027,Lifeline Hospital 0027,Solapur,Telangana,200,Speciality
+H0028,Sunrise Hospital 0028,Nanded,Gujarat,30,General
+H0029,Lifeline Hospital 0029,Latur,Telangana,500,Multi-speciality
+H0030,Sahyadri Hospital 0030,Pune,Karnataka,150,Speciality
+H0031,Wellness Hospital 0031,Mumbai,Madhya Pradesh,150,Multi-speciality
+H0032,Apollo Hospital 0032,Latur,Gujarat,200,Multi-speciality
+H0033,Sahyadri Hospital 0033,Jalna,Madhya Pradesh,150,Speciality
+H0034,Apollo Hospital 0034,Aurangabad,Telangana,50,General
+H0035,Sahyadri Hospital 0035,Pune,Maharashtra,500,Multi-speciality
+H0036,Unity Hospital 0036,Nashik,Maharashtra,50,General
+H0037,Sunrise Hospital 0037,Jalna,Gujarat,75,Multi-speciality
+H0038,Unity Hospital 0038,Aurangabad,Maharashtra,500,General
+H0039,Metro Hospital 0039,Solapur,Gujarat,50,Speciality
+H0040,Apollo Hospital 0040,Nashik,Karnataka,100,Multi-speciality
+H0041,Sahyadri Hospital 0041,Mumbai,Telangana,300,Multi-speciality
+H0042,Sunrise Hospital 0042,Pune,Telangana,500,Speciality
+H0043,Unity Hospital 0043,Mumbai,Gujarat,100,General
+H0044,Sahyadri Hospital 0044,Pune,Karnataka,500,Multi-speciality
+H0045,Metro Hospital 0045,Latur,Gujarat,200,Speciality
+H0046,Apollo Hospital 0046,Nagpur,Maharashtra,300,General
+H0047,Unity Hospital 0047,Jalna,Madhya Pradesh,50,Multi-speciality
+H0048,City Care Hospital 0048,Latur,Maharashtra,150,Speciality
+H0049,Sunrise Hospital 0049,Mumbai,Karnataka,75,General
+H0050,Metro Hospital 0050,Nanded,Karnataka,30,Speciality
+H0051,Lifeline Hospital 0051,Mumbai,Telangana,75,General
+H0052,Metro Hospital 0052,Jalna,Maharashtra,150,Speciality
+H0053,Unity Hospital 0053,Latur,Madhya Pradesh,150,Speciality
+H0054,Sahyadri Hospital 0054,Nashik,Karnataka,500,Multi-speciality
+H0055,Unity Hospital 0055,Nanded,Telangana,500,Speciality
+H0056,Sunrise Hospital 0056,Kolhapur,Madhya Pradesh,500,Speciality
+H0057,Sunrise Hospital 0057,Pune,Karnataka,300,Multi-speciality
+H0058,Sahyadri Hospital 0058,Aurangabad,Madhya Pradesh,150,General
+H0059,City Care Hospital 0059,Jalna,Telangana,100,General
+H0060,Sunrise Hospital 0060,Nanded,Gujarat,300,Multi-speciality
+H0061,Wellness Hospital 0061,Kolhapur,Gujarat,300,General
+H0062,Sahyadri Hospital 0062,Nanded,Gujarat,50,Multi-speciality
+H0063,Apollo Hospital 0063,Solapur,Telangana,50,Multi-speciality
+H0064,Wellness Hospital 0064,Solapur,Gujarat,75,Speciality
+H0065,Unity Hospital 0065,Pune,Karnataka,30,Multi-speciality
+H0066,Unity Hospital 0066,Jalna,Karnataka,500,General
+H0067,Lifeline Hospital 0067,Pune,Karnataka,30,General
+H0068,Metro Hospital 0068,Nanded,Maharashtra,150,Multi-speciality
+H0069,Sahyadri Hospital 0069,Mumbai,Madhya Pradesh,50,Multi-speciality
+H0070,Sunrise Hospital 0070,Pune,Telangana,150,General
+H0071,City Care Hospital 0071,Latur,Gujarat,200,General
+H0072,Wellness Hospital 0072,Nanded,Karnataka,200,General
+H0073,Unity Hospital 0073,Mumbai,Gujarat,200,Multi-speciality
+H0074,Sahyadri Hospital 0074,Nagpur,Gujarat,50,Multi-speciality
+H0075,Metro Hospital 0075,Pune,Telangana,150,Speciality
+H0076,Wellness Hospital 0076,Aurangabad,Gujarat,100,Multi-speciality
+H0077,Sunrise Hospital 0077,Pune,Gujarat,30,Multi-speciality
+H0078,Wellness Hospital 0078,Latur,Madhya Pradesh,75,General
+H0079,City Care Hospital 0079,Latur,Maharashtra,30,Multi-speciality
+H0080,Unity Hospital 0080,Mumbai,Karnataka,150,Multi-speciality
+H0081,Lifeline Hospital 0081,Jalna,Telangana,200,General
+H0082,Metro Hospital 0082,Nashik,Gujarat,75,Multi-speciality
+H0083,Sahyadri Hospital 0083,Pune,Gujarat,75,General
+H0084,City Care Hospital 0084,Nanded,Telangana,300,Multi-speciality
+H0085,Sahyadri Hospital 0085,Pune,Gujarat,300,General
+H0086,Sahyadri Hospital 0086,Pune,Telangana,500,General
+H0087,Wellness Hospital 0087,Aurangabad,Telangana,300,Speciality
+H0088,Sahyadri Hospital 0088,Pune,Gujarat,200,Speciality
+H0089,Sunrise Hospital 0089,Aurangabad,Maharashtra,500,Multi-speciality
+H0090,Lifeline Hospital 0090,Mumbai,Gujarat,150,Speciality
+H0091,Sahyadri Hospital 0091,Nagpur,Madhya Pradesh,300,Multi-speciality
+H0092,Metro Hospital 0092,Latur,Karnataka,30,Multi-speciality
+H0093,Lifeline Hospital 0093,Nagpur,Gujarat,30,Multi-speciality
+H0094,Metro Hospital 0094,Aurangabad,Gujarat,50,Speciality
+H0095,Sunrise Hospital 0095,Nagpur,Maharashtra,75,Multi-speciality
+H0096,Unity Hospital 0096,Latur,Maharashtra,200,Speciality
+H0097,Metro Hospital 0097,Jalna,Maharashtra,200,Speciality
+H0098,Sahyadri Hospital 0098,Kolhapur,Telangana,50,Speciality
+H0099,Apollo Hospital 0099,Pune,Telangana,30,Speciality
+H0100,Metro Hospital 0100,Nanded,Madhya Pradesh,300,Speciality
+H0101,Metro Hospital 0101,Mumbai,Maharashtra,500,General
+H0102,Metro Hospital 0102,Jalna,Maharashtra,150,General
+H0103,Wellness Hospital 0103,Pune,Madhya Pradesh,30,General
+H0104,City Care Hospital 0104,Nashik,Telangana,150,Speciality
+H0105,Sahyadri Hospital 0105,Mumbai,Karnataka,200,Speciality
+H0106,Sahyadri Hospital 0106,Latur,Gujarat,300,Multi-speciality
+H0107,Sahyadri Hospital 0107,Mumbai,Madhya Pradesh,300,Speciality
+H0108,Sunrise Hospital 0108,Jalna,Telangana,150,Multi-speciality
+H0109,City Care Hospital 0109,Nashik,Gujarat,30,General
+H0110,Sahyadri Hospital 0110,Kolhapur,Telangana,200,General
+H0111,Lifeline Hospital 0111,Kolhapur,Madhya Pradesh,150,Multi-speciality
+H0112,Sunrise Hospital 0112,Nanded,Gujarat,300,General
+H0113,Wellness Hospital 0113,Kolhapur,Maharashtra,500,Speciality
+H0114,Wellness Hospital 0114,Solapur,Telangana,200,General
+H0115,Metro Hospital 0115,Latur,Telangana,30,Speciality
+H0116,Sunrise Hospital 0116,Latur,Gujarat,50,Multi-speciality
+H0117,Unity Hospital 0117,Jalna,Maharashtra,50,Multi-speciality
+H0118,Sahyadri Hospital 0118,Nashik,Maharashtra,50,Multi-speciality
+H0119,Sahyadri Hospital 0119,Nanded,Gujarat,100,General
+H0120,Wellness Hospital 0120,Nanded,Karnataka,500,General
+H0121,Wellness Hospital 0121,Nagpur,Karnataka,50,General
+H0122,Metro Hospital 0122,Latur,Madhya Pradesh,30,General
+H0123,Sunrise Hospital 0123,Nanded,Telangana,75,Multi-speciality
+H0124,Sahyadri Hospital 0124,Solapur,Karnataka,500,General
+H0125,City Care Hospital 0125,Kolhapur,Gujarat,200,Multi-speciality
+H0126,Apollo Hospital 0126,Aurangabad,Madhya Pradesh,150,Multi-speciality
+H0127,Unity Hospital 0127,Jalna,Gujarat,200,General
+H0128,Sahyadri Hospital 0128,Aurangabad,Madhya Pradesh,150,General
+H0129,Metro Hospital 0129,Solapur,Gujarat,30,General
+H0130,Apollo Hospital 0130,Latur,Karnataka,150,General
+H0131,Unity Hospital 0131,Nashik,Telangana,150,Multi-speciality
+H0132,Metro Hospital 0132,Pune,Madhya Pradesh,200,Multi-speciality
+H0133,Apollo Hospital 0133,Nashik,Maharashtra,300,Multi-speciality
+H0134,Metro Hospital 0134,Nanded,Madhya Pradesh,150,Speciality
+H0135,Sahyadri Hospital 0135,Aurangabad,Gujarat,200,Speciality
+H0136,City Care Hospital 0136,Nashik,Gujarat,100,General
+H0137,City Care Hospital 0137,Nanded,Madhya Pradesh,150,Speciality
+H0138,Sahyadri Hospital 0138,Solapur,Telangana,30,General
+H0139,Lifeline Hospital 0139,Nagpur,Maharashtra,100,General
+H0140,City Care Hospital 0140,Aurangabad,Maharashtra,150,General
+H0141,Sahyadri Hospital 0141,Nanded,Maharashtra,75,Speciality
+H0142,Metro Hospital 0142,Pune,Gujarat,30,Speciality
+H0143,Sahyadri Hospital 0143,Mumbai,Telangana,150,Speciality
+H0144,Wellness Hospital 0144,Nanded,Madhya Pradesh,200,Multi-speciality
+H0145,Unity Hospital 0145,Nanded,Karnataka,50,Multi-speciality
+H0146,Sunrise Hospital 0146,Kolhapur,Madhya Pradesh,500,General
+H0147,Sunrise Hospital 0147,Mumbai,Karnataka,200,Speciality
+H0148,City Care Hospital 0148,Pune,Madhya Pradesh,150,Speciality
+H0149,Lifeline Hospital 0149,Aurangabad,Gujarat,150,Multi-speciality
+H0150,City Care Hospital 0150,Kolhapur,Maharashtra,50,Multi-speciality
+H0151,Wellness Hospital 0151,Nagpur,Madhya Pradesh,100,Multi-speciality
+H0152,Apollo Hospital 0152,Aurangabad,Telangana,150,General
+H0153,Sahyadri Hospital 0153,Mumbai,Karnataka,150,General
+H0154,Sunrise Hospital 0154,Kolhapur,Karnataka,500,General
+H0155,Apollo Hospital 0155,Nashik,Gujarat,30,Multi-speciality
+H0156,Apollo Hospital 0156,Nanded,Telangana,500,Multi-speciality
+H0157,Wellness Hospital 0157,Jalna,Gujarat,100,Speciality
+H0158,Wellness Hospital 0158,Nashik,Madhya Pradesh,150,General
+H0159,Sahyadri Hospital 0159,Latur,Karnataka,300,Speciality
+H0160,Unity Hospital 0160,Aurangabad,Telangana,200,Speciality
+H0161,Unity Hospital 0161,Nashik,Gujarat,500,Multi-speciality
+H0162,Lifeline Hospital 0162,Solapur,Maharashtra,300,General
+H0163,Unity Hospital 0163,Latur,Maharashtra,500,Speciality
+H0164,Sahyadri Hospital 0164,Aurangabad,Gujarat,100,Speciality
+H0165,Sahyadri Hospital 0165,Nanded,Telangana,200,Multi-speciality
+H0166,Lifeline Hospital 0166,Mumbai,Maharashtra,150,Multi-speciality
+H0167,Wellness Hospital 0167,Nagpur,Madhya Pradesh,75,Speciality
+H0168,Sunrise Hospital 0168,Latur,Maharashtra,30,Speciality
+H0169,City Care Hospital 0169,Latur,Karnataka,100,Multi-speciality
+H0170,Wellness Hospital 0170,Nashik,Madhya Pradesh,30,Multi-speciality
+H0171,Metro Hospital 0171,Nagpur,Maharashtra,50,Multi-speciality
+H0172,Sunrise Hospital 0172,Kolhapur,Madhya Pradesh,30,Multi-speciality
+H0173,Lifeline Hospital 0173,Pune,Gujarat,150,Speciality
+H0174,Sunrise Hospital 0174,Nashik,Telangana,150,General
+H0175,Lifeline Hospital 0175,Solapur,Maharashtra,30,Speciality
+H0176,Unity Hospital 0176,Mumbai,Gujarat,150,General
+H0177,Wellness Hospital 0177,Pune,Karnataka,50,General
+H0178,City Care Hospital 0178,Kolhapur,Telangana,100,Multi-speciality
+H0179,Apollo Hospital 0179,Jalna,Maharashtra,50,Multi-speciality
+H0180,Wellness Hospital 0180,Mumbai,Karnataka,200,Speciality
+H0181,Unity Hospital 0181,Mumbai,Maharashtra,50,Multi-speciality
+H0182,Metro Hospital 0182,Kolhapur,Maharashtra,50,Multi-speciality
+H0183,Sahyadri Hospital 0183,Latur,Karnataka,500,Speciality
+H0184,Sahyadri Hospital 0184,Aurangabad,Madhya Pradesh,75,General
+H0185,Apollo Hospital 0185,Nanded,Madhya Pradesh,50,Speciality
+H0186,Sunrise Hospital 0186,Solapur,Maharashtra,150,General
+H0187,Apollo Hospital 0187,Pune,Maharashtra,75,Speciality
+H0188,Wellness Hospital 0188,Kolhapur,Madhya Pradesh,75,Multi-speciality
+H0189,Lifeline Hospital 0189,Solapur,Telangana,500,Multi-speciality
+H0190,Wellness Hospital 0190,Kolhapur,Madhya Pradesh,50,General
+H0191,Apollo Hospital 0191,Kolhapur,Telangana,50,General
+H0192,Apollo Hospital 0192,Kolhapur,Telangana,300,Speciality
+H0193,Apollo Hospital 0193,Kolhapur,Karnataka,30,Speciality
+H0194,City Care Hospital 0194,Nagpur,Karnataka,30,Multi-speciality
+H0195,Apollo Hospital 0195,Latur,Madhya Pradesh,50,General
+H0196,Lifeline Hospital 0196,Kolhapur,Telangana,30,Multi-speciality
+H0197,City Care Hospital 0197,Mumbai,Karnataka,30,Multi-speciality
+H0198,Lifeline Hospital 0198,Nanded,Karnataka,500,Multi-speciality
+H0199,Apollo Hospital 0199,Mumbai,Maharashtra,500,Speciality
+H0200,Metro Hospital 0200,Latur,Maharashtra,200,Speciality
+H0201,City Care Hospital 0201,Latur,Maharashtra,50,General
+H0202,Metro Hospital 0202,Solapur,Maharashtra,500,Speciality
+H0203,Sahyadri Hospital 0203,Aurangabad,Maharashtra,200,General
+H0204,Metro Hospital 0204,Solapur,Madhya Pradesh,500,Speciality
+H0205,Metro Hospital 0205,Pune,Madhya Pradesh,50,Speciality
+H0206,Metro Hospital 0206,Solapur,Madhya Pradesh,30,Speciality
+H0207,Sahyadri Hospital 0207,Nashik,Gujarat,30,Multi-speciality
+H0208,Sunrise Hospital 0208,Nanded,Telangana,500,General
+H0209,Metro Hospital 0209,Aurangabad,Maharashtra,500,General
+H0210,Lifeline Hospital 0210,Jalna,Telangana,100,Multi-speciality
+H0211,Unity Hospital 0211,Aurangabad,Karnataka,100,General
+H0212,Unity Hospital 0212,Nanded,Telangana,30,Speciality
+H0213,Unity Hospital 0213,Jalna,Karnataka,75,Multi-speciality
+H0214,Apollo Hospital 0214,Nashik,Karnataka,100,Speciality
+H0215,City Care Hospital 0215,Mumbai,Madhya Pradesh,100,Multi-speciality
+H0216,Unity Hospital 0216,Jalna,Madhya Pradesh,100,General
+H0217,Unity Hospital 0217,Nanded,Telangana,200,General
+H0218,Lifeline Hospital 0218,Mumbai,Telangana,50,Multi-speciality
+H0219,Lifeline Hospital 0219,Nashik,Karnataka,500,Multi-speciality
+H0220,Sahyadri Hospital 0220,Solapur,Telangana,75,General
+H0221,Wellness Hospital 0221,Kolhapur,Karnataka,300,Multi-speciality
+H0222,Metro Hospital 0222,Aurangabad,Telangana,200,Speciality
+H0223,City Care Hospital 0223,Nashik,Madhya Pradesh,500,Multi-speciality
+H0224,Lifeline Hospital 0224,Kolhapur,Madhya Pradesh,30,Multi-speciality
+H0225,Sahyadri Hospital 0225,Nanded,Gujarat,75,Multi-speciality
+H0226,Apollo Hospital 0226,Kolhapur,Gujarat,150,Speciality
+H0227,Apollo Hospital 0227,Nagpur,Telangana,30,Multi-speciality
+H0228,Lifeline Hospital 0228,Pune,Telangana,200,General
+H0229,Metro Hospital 0229,Aurangabad,Maharashtra,500,Multi-speciality
+H0230,Lifeline Hospital 0230,Kolhapur,Karnataka,150,Speciality
+H0231,Apollo Hospital 0231,Nagpur,Maharashtra,150,Speciality
+H0232,Wellness Hospital 0232,Latur,Telangana,150,Speciality
+H0233,Wellness Hospital 0233,Aurangabad,Maharashtra,30,Multi-speciality
+H0234,Lifeline Hospital 0234,Mumbai,Maharashtra,500,Speciality
+H0235,City Care Hospital 0235,Kolhapur,Karnataka,200,Speciality
+H0236,Unity Hospital 0236,Pune,Telangana,75,General
+H0237,City Care Hospital 0237,Solapur,Karnataka,300,Speciality
+H0238,City Care Hospital 0238,Nanded,Madhya Pradesh,30,General
+H0239,Sunrise Hospital 0239,Aurangabad,Karnataka,75,Speciality
+H0240,Apollo Hospital 0240,Jalna,Karnataka,300,Speciality
+H0241,City Care Hospital 0241,Nashik,Maharashtra,300,General
+H0242,Apollo Hospital 0242,Nashik,Karnataka,200,General
+H0243,Metro Hospital 0243,Mumbai,Gujarat,50,General
+H0244,Metro Hospital 0244,Pune,Karnataka,500,Speciality
+H0245,Wellness Hospital 0245,Jalna,Gujarat,100,Speciality
+H0246,Sahyadri Hospital 0246,Nanded,Maharashtra,200,General
+H0247,Sunrise Hospital 0247,Mumbai,Gujarat,50,Multi-speciality
+H0248,Unity Hospital 0248,Solapur,Madhya Pradesh,30,Speciality
+H0249,Unity Hospital 0249,Solapur,Karnataka,300,Multi-speciality
+H0250,Sunrise Hospital 0250,Aurangabad,Gujarat,200,Speciality
+H0251,Sahyadri Hospital 0251,Nashik,Karnataka,500,Speciality
+H0252,Sunrise Hospital 0252,Aurangabad,Telangana,200,Multi-speciality
+H0253,Sahyadri Hospital 0253,Aurangabad,Madhya Pradesh,500,Multi-speciality
+H0254,Lifeline Hospital 0254,Pune,Telangana,150,Speciality
+H0255,Unity Hospital 0255,Nashik,Maharashtra,200,Multi-speciality
+H0256,Unity Hospital 0256,Mumbai,Maharashtra,300,General
+H0257,Metro Hospital 0257,Nashik,Gujarat,200,Speciality
+H0258,Sunrise Hospital 0258,Nashik,Gujarat,50,Speciality
+H0259,Unity Hospital 0259,Latur,Karnataka,500,Multi-speciality
+H0260,City Care Hospital 0260,Nagpur,Maharashtra,200,Speciality
+H0261,Sunrise Hospital 0261,Kolhapur,Maharashtra,100,Multi-speciality
+H0262,Lifeline Hospital 0262,Kolhapur,Gujarat,200,Multi-speciality
+H0263,Apollo Hospital 0263,Nagpur,Gujarat,150,General
+H0264,Sunrise Hospital 0264,Mumbai,Karnataka,100,General
+H0265,Sahyadri Hospital 0265,Nanded,Madhya Pradesh,200,Multi-speciality
+H0266,Unity Hospital 0266,Nanded,Maharashtra,75,General
+H0267,Apollo Hospital 0267,Kolhapur,Gujarat,200,Multi-speciality
+H0268,Metro Hospital 0268,Pune,Gujarat,100,Multi-speciality
+H0269,Metro Hospital 0269,Mumbai,Telangana,500,Speciality
+H0270,Unity Hospital 0270,Jalna,Karnataka,75,General
+H0271,Sahyadri Hospital 0271,Aurangabad,Telangana,50,Multi-speciality
+H0272,Sunrise Hospital 0272,Nagpur,Karnataka,500,Multi-speciality
+H0273,Metro Hospital 0273,Solapur,Maharashtra,150,General
+H0274,Unity Hospital 0274,Nashik,Madhya Pradesh,50,Multi-speciality
+H0275,Apollo Hospital 0275,Aurangabad,Karnataka,30,Multi-speciality
+H0276,Apollo Hospital 0276,Solapur,Telangana,200,General
+H0277,City Care Hospital 0277,Pune,Madhya Pradesh,150,Multi-speciality
+H0278,Wellness Hospital 0278,Nagpur,Maharashtra,500,Speciality
+H0279,Wellness Hospital 0279,Pune,Madhya Pradesh,30,General
+H0280,City Care Hospital 0280,Nanded,Gujarat,30,Speciality
+H0281,Sahyadri Hospital 0281,Aurangabad,Karnataka,200,General
+H0282,Metro Hospital 0282,Nashik,Maharashtra,300,Multi-speciality
+H0283,Metro Hospital 0283,Nagpur,Telangana,500,Speciality
+H0284,Sahyadri Hospital 0284,Latur,Karnataka,75,Multi-speciality
+H0285,Unity Hospital 0285,Mumbai,Telangana,150,Speciality
+H0286,Lifeline Hospital 0286,Nagpur,Gujarat,100,General
+H0287,Sunrise Hospital 0287,Solapur,Maharashtra,100,Multi-speciality
+H0288,Wellness Hospital 0288,Aurangabad,Madhya Pradesh,300,Speciality
+H0289,Wellness Hospital 0289,Aurangabad,Gujarat,75,Speciality
+H0290,Wellness Hospital 0290,Nagpur,Karnataka,50,Speciality
+H0291,Wellness Hospital 0291,Pune,Telangana,300,General
+H0292,Sunrise Hospital 0292,Aurangabad,Madhya Pradesh,100,General
+H0293,Wellness Hospital 0293,Jalna,Karnataka,30,Multi-speciality
+H0294,Sunrise Hospital 0294,Nanded,Gujarat,150,General
+H0295,Metro Hospital 0295,Nashik,Gujarat,30,Multi-speciality
+H0296,Apollo Hospital 0296,Latur,Telangana,50,General
+H0297,Sunrise Hospital 0297,Nagpur,Telangana,75,General
+H0298,Apollo Hospital 0298,Kolhapur,Gujarat,500,General
+H0299,Metro Hospital 0299,Solapur,Gujarat,500,Speciality
+H0300,Apollo Hospital 0300,Aurangabad,Telangana,200,General
+H0301,Metro Hospital 0301,Kolhapur,Madhya Pradesh,300,General
+H0302,Lifeline Hospital 0302,Aurangabad,Karnataka,200,Speciality
+H0303,Sahyadri Hospital 0303,Aurangabad,Karnataka,50,Speciality
+H0304,Sunrise Hospital 0304,Nashik,Telangana,100,Multi-speciality
+H0305,City Care Hospital 0305,Jalna,Karnataka,200,Multi-speciality
+H0306,Sahyadri Hospital 0306,Solapur,Madhya Pradesh,75,Speciality
+H0307,Apollo Hospital 0307,Pune,Karnataka,50,Multi-speciality
+H0308,Lifeline Hospital 0308,Nanded,Telangana,300,Speciality
+H0309,Sunrise Hospital 0309,Nagpur,Gujarat,75,Speciality
+H0310,Metro Hospital 0310,Nashik,Telangana,75,General
+H0311,City Care Hospital 0311,Aurangabad,Madhya Pradesh,150,Multi-speciality
+H0312,Sunrise Hospital 0312,Jalna,Maharashtra,100,Speciality
+H0313,Metro Hospital 0313,Pune,Madhya Pradesh,50,Multi-speciality
+H0314,Sahyadri Hospital 0314,Kolhapur,Telangana,100,General
+H0315,Sahyadri Hospital 0315,Kolhapur,Telangana,30,General
+H0316,City Care Hospital 0316,Latur,Gujarat,75,General
+H0317,City Care Hospital 0317,Latur,Karnataka,30,Speciality
+H0318,Apollo Hospital 0318,Nanded,Madhya Pradesh,30,Multi-speciality
+H0319,Sunrise Hospital 0319,Latur,Madhya Pradesh,200,Speciality
+H0320,Sunrise Hospital 0320,Solapur,Telangana,150,General
+H0321,Lifeline Hospital 0321,Nanded,Maharashtra,30,Multi-speciality
+H0322,Unity Hospital 0322,Latur,Telangana,200,Multi-speciality
+H0323,Lifeline Hospital 0323,Nashik,Madhya Pradesh,100,General
+H0324,Lifeline Hospital 0324,Aurangabad,Gujarat,150,General
+H0325,Sunrise Hospital 0325,Solapur,Gujarat,200,Multi-speciality
+H0326,Wellness Hospital 0326,Latur,Madhya Pradesh,500,General
+H0327,Sunrise Hospital 0327,Jalna,Gujarat,30,General
+H0328,Sunrise Hospital 0328,Solapur,Maharashtra,50,Multi-speciality
+H0329,Metro Hospital 0329,Solapur,Madhya Pradesh,100,General
+H0330,Unity Hospital 0330,Nagpur,Karnataka,75,General
+H0331,Unity Hospital 0331,Nashik,Karnataka,50,Speciality
+H0332,Lifeline Hospital 0332,Nashik,Telangana,200,Speciality
+H0333,Sunrise Hospital 0333,Pune,Maharashtra,50,Multi-speciality
+H0334,City Care Hospital 0334,Mumbai,Karnataka,100,Multi-speciality
+H0335,Apollo Hospital 0335,Nanded,Karnataka,200,Speciality
+H0336,Lifeline Hospital 0336,Nanded,Gujarat,100,Multi-speciality
+H0337,Metro Hospital 0337,Pune,Madhya Pradesh,150,Multi-speciality
+H0338,Apollo Hospital 0338,Solapur,Karnataka,200,Speciality
+H0339,Sunrise Hospital 0339,Pune,Telangana,75,Multi-speciality
+H0340,Metro Hospital 0340,Pune,Maharashtra,150,Multi-speciality
+H0341,Metro Hospital 0341,Latur,Telangana,100,General
+H0342,Sunrise Hospital 0342,Latur,Madhya Pradesh,300,Multi-speciality
+H0343,Sunrise Hospital 0343,Pune,Maharashtra,300,Multi-speciality
+H0344,City Care Hospital 0344,Nanded,Maharashtra,30,General
+H0345,Sahyadri Hospital 0345,Nashik,Gujarat,500,General
+H0346,Sahyadri Hospital 0346,Kolhapur,Telangana,500,Speciality
+H0347,Metro Hospital 0347,Latur,Maharashtra,50,Speciality
+H0348,Apollo Hospital 0348,Jalna,Gujarat,200,General
+H0349,Metro Hospital 0349,Nanded,Karnataka,200,Speciality
+H0350,City Care Hospital 0350,Solapur,Madhya Pradesh,75,Multi-speciality
+H0351,Apollo Hospital 0351,Latur,Gujarat,100,Multi-speciality
+H0352,City Care Hospital 0352,Solapur,Gujarat,100,Multi-speciality
+H0353,City Care Hospital 0353,Solapur,Gujarat,30,Multi-speciality
+H0354,Unity Hospital 0354,Solapur,Maharashtra,300,General
+H0355,Sunrise Hospital 0355,Nashik,Madhya Pradesh,100,Speciality
+H0356,Unity Hospital 0356,Nagpur,Maharashtra,30,Multi-speciality
+H0357,Sahyadri Hospital 0357,Aurangabad,Telangana,50,General
+H0358,City Care Hospital 0358,Aurangabad,Maharashtra,150,General
+H0359,Unity Hospital 0359,Nanded,Karnataka,500,Multi-speciality
+H0360,City Care Hospital 0360,Latur,Madhya Pradesh,500,Multi-speciality
+H0361,Metro Hospital 0361,Mumbai,Madhya Pradesh,150,General
+H0362,Unity Hospital 0362,Latur,Madhya Pradesh,200,General
+H0363,Wellness Hospital 0363,Solapur,Karnataka,200,Multi-speciality
+H0364,Wellness Hospital 0364,Nashik,Gujarat,100,Speciality
+H0365,City Care Hospital 0365,Solapur,Maharashtra,75,General
+H0366,Unity Hospital 0366,Jalna,Telangana,150,General
+H0367,Metro Hospital 0367,Jalna,Karnataka,300,Speciality
+H0368,Metro Hospital 0368,Jalna,Karnataka,150,Multi-speciality
+H0369,City Care Hospital 0369,Aurangabad,Gujarat,150,General
+H0370,Metro Hospital 0370,Nanded,Madhya Pradesh,75,Multi-speciality
+H0371,Unity Hospital 0371,Pune,Madhya Pradesh,150,Speciality
+H0372,Metro Hospital 0372,Solapur,Karnataka,200,General
+H0373,Metro Hospital 0373,Solapur,Madhya Pradesh,300,Speciality
+H0374,Lifeline Hospital 0374,Solapur,Telangana,300,Speciality
+H0375,Lifeline Hospital 0375,Aurangabad,Telangana,50,Multi-speciality
+H0376,Apollo Hospital 0376,Aurangabad,Telangana,300,Speciality
+H0377,Sahyadri Hospital 0377,Mumbai,Telangana,150,General
+H0378,Unity Hospital 0378,Latur,Gujarat,200,General
+H0379,Metro Hospital 0379,Nashik,Karnataka,30,Multi-speciality
+H0380,Wellness Hospital 0380,Kolhapur,Karnataka,30,Speciality
+H0381,Apollo Hospital 0381,Aurangabad,Gujarat,200,Multi-speciality
+H0382,Lifeline Hospital 0382,Latur,Karnataka,50,Speciality
+H0383,Apollo Hospital 0383,Nagpur,Madhya Pradesh,300,Speciality
+H0384,Sunrise Hospital 0384,Kolhapur,Karnataka,300,Multi-speciality
+H0385,Apollo Hospital 0385,Jalna,Maharashtra,50,General
+H0386,Lifeline Hospital 0386,Latur,Karnataka,50,Speciality
+H0387,Metro Hospital 0387,Solapur,Karnataka,500,Speciality
+H0388,Sahyadri Hospital 0388,Jalna,Gujarat,200,Multi-speciality
+H0389,Lifeline Hospital 0389,Aurangabad,Maharashtra,150,Speciality
+H0390,City Care Hospital 0390,Kolhapur,Karnataka,200,Multi-speciality
+H0391,Wellness Hospital 0391,Jalna,Telangana,150,Speciality
+H0392,Lifeline Hospital 0392,Latur,Madhya Pradesh,300,Speciality
+H0393,Unity Hospital 0393,Kolhapur,Gujarat,100,General
+H0394,City Care Hospital 0394,Mumbai,Gujarat,500,Multi-speciality
+H0395,Sunrise Hospital 0395,Latur,Telangana,300,Multi-speciality
+H0396,Sahyadri Hospital 0396,Nashik,Madhya Pradesh,150,Speciality
+H0397,Metro Hospital 0397,Aurangabad,Gujarat,100,Multi-speciality
+H0398,Lifeline Hospital 0398,Aurangabad,Madhya Pradesh,100,General
+H0399,Lifeline Hospital 0399,Solapur,Gujarat,100,Speciality
+H0400,City Care Hospital 0400,Nashik,Gujarat,300,Speciality
+H0401,Sahyadri Hospital 0401,Nanded,Maharashtra,200,Speciality
+H0402,Sunrise Hospital 0402,Nagpur,Maharashtra,150,Speciality
+H0403,Sunrise Hospital 0403,Mumbai,Telangana,50,General
+H0404,Unity Hospital 0404,Latur,Gujarat,200,General
+H0405,Unity Hospital 0405,Nagpur,Maharashtra,75,General
+H0406,City Care Hospital 0406,Nagpur,Karnataka,100,Speciality
+H0407,Lifeline Hospital 0407,Nanded,Maharashtra,100,Multi-speciality
+H0408,City Care Hospital 0408,Jalna,Telangana,75,Speciality
+H0409,City Care Hospital 0409,Nanded,Karnataka,100,Speciality
+H0410,Wellness Hospital 0410,Latur,Karnataka,100,Speciality
+H0411,Unity Hospital 0411,Mumbai,Karnataka,75,Speciality
+H0412,Lifeline Hospital 0412,Nashik,Gujarat,150,General
+H0413,Metro Hospital 0413,Jalna,Maharashtra,100,Speciality
+H0414,Sahyadri Hospital 0414,Latur,Telangana,100,General
+H0415,City Care Hospital 0415,Jalna,Karnataka,50,Multi-speciality
+H0416,City Care Hospital 0416,Kolhapur,Telangana,300,Speciality
+H0417,Lifeline Hospital 0417,Latur,Madhya Pradesh,75,Multi-speciality
+H0418,Sahyadri Hospital 0418,Nagpur,Madhya Pradesh,500,Multi-speciality
+H0419,Unity Hospital 0419,Mumbai,Telangana,30,Speciality
+H0420,Apollo Hospital 0420,Mumbai,Madhya Pradesh,200,General
+H0421,City Care Hospital 0421,Jalna,Maharashtra,50,General
+H0422,City Care Hospital 0422,Aurangabad,Madhya Pradesh,100,Multi-speciality
+H0423,Apollo Hospital 0423,Mumbai,Karnataka,30,Speciality
+H0424,Sunrise Hospital 0424,Latur,Karnataka,300,Multi-speciality
+H0425,Sunrise Hospital 0425,Nanded,Gujarat,30,General
+H0426,Sunrise Hospital 0426,Mumbai,Gujarat,75,General
+H0427,Wellness Hospital 0427,Nanded,Madhya Pradesh,200,Multi-speciality
+H0428,Lifeline Hospital 0428,Nanded,Karnataka,500,Speciality
+H0429,Metro Hospital 0429,Latur,Karnataka,200,Speciality
+H0430,Lifeline Hospital 0430,Pune,Gujarat,500,General
+H0431,Apollo Hospital 0431,Solapur,Telangana,50,Multi-speciality
+H0432,Sunrise Hospital 0432,Kolhapur,Telangana,30,Multi-speciality
+H0433,Sunrise Hospital 0433,Nagpur,Madhya Pradesh,50,Multi-speciality
+H0434,Lifeline Hospital 0434,Nashik,Karnataka,75,General
+H0435,Sunrise Hospital 0435,Nashik,Gujarat,100,Multi-speciality
+H0436,Wellness Hospital 0436,Latur,Karnataka,200,General
+H0437,Metro Hospital 0437,Nashik,Gujarat,50,Speciality
+H0438,Wellness Hospital 0438,Nanded,Maharashtra,500,Multi-speciality
+H0439,Wellness Hospital 0439,Mumbai,Madhya Pradesh,200,General
+H0440,Metro Hospital 0440,Nagpur,Telangana,100,General
+H0441,Unity Hospital 0441,Aurangabad,Gujarat,30,General
+H0442,Unity Hospital 0442,Nagpur,Maharashtra,500,General
+H0443,Apollo Hospital 0443,Solapur,Telangana,500,Speciality
+H0444,Sahyadri Hospital 0444,Nashik,Gujarat,100,General
+H0445,Sunrise Hospital 0445,Nashik,Telangana,75,General
+H0446,Sahyadri Hospital 0446,Nashik,Madhya Pradesh,200,General
+H0447,Apollo Hospital 0447,Kolhapur,Maharashtra,300,Speciality
+H0448,Lifeline Hospital 0448,Kolhapur,Gujarat,75,Multi-speciality
+H0449,Unity Hospital 0449,Jalna,Gujarat,100,Multi-speciality
+H0450,Lifeline Hospital 0450,Nashik,Maharashtra,500,General
+H0451,Sunrise Hospital 0451,Nagpur,Telangana,500,General
+H0452,Unity Hospital 0452,Nagpur,Karnataka,500,Multi-speciality
+H0453,Metro Hospital 0453,Nanded,Telangana,300,Speciality
+H0454,Metro Hospital 0454,Nashik,Gujarat,300,Speciality
+H0455,Unity Hospital 0455,Kolhapur,Telangana,30,Speciality
+H0456,City Care Hospital 0456,Kolhapur,Gujarat,50,Speciality
+H0457,Apollo Hospital 0457,Pune,Maharashtra,200,General
+H0458,Sahyadri Hospital 0458,Aurangabad,Maharashtra,200,Speciality
+H0459,Sahyadri Hospital 0459,Nagpur,Maharashtra,150,Multi-speciality
+H0460,Sunrise Hospital 0460,Jalna,Telangana,200,Multi-speciality
+H0461,Apollo Hospital 0461,Aurangabad,Karnataka,30,Speciality
+H0462,Sahyadri Hospital 0462,Aurangabad,Karnataka,100,General
+H0463,Unity Hospital 0463,Nanded,Telangana,300,General
+H0464,Lifeline Hospital 0464,Pune,Telangana,150,Multi-speciality
+H0465,Wellness Hospital 0465,Kolhapur,Gujarat,300,Speciality
+H0466,City Care Hospital 0466,Aurangabad,Gujarat,100,Speciality
+H0467,Metro Hospital 0467,Jalna,Madhya Pradesh,200,General
+H0468,Unity Hospital 0468,Solapur,Gujarat,300,Speciality
+H0469,Sunrise Hospital 0469,Nagpur,Madhya Pradesh,150,General
+H0470,Sunrise Hospital 0470,Nashik,Madhya Pradesh,50,Speciality
+H0471,Unity Hospital 0471,Mumbai,Maharashtra,75,General
+H0472,City Care Hospital 0472,Jalna,Maharashtra,200,Speciality
+H0473,City Care Hospital 0473,Nanded,Gujarat,30,General
+H0474,City Care Hospital 0474,Latur,Gujarat,200,Speciality
+H0475,Metro Hospital 0475,Jalna,Madhya Pradesh,300,General
+H0476,City Care Hospital 0476,Nanded,Maharashtra,300,Multi-speciality
+H0477,City Care Hospital 0477,Aurangabad,Karnataka,75,General
+H0478,Unity Hospital 0478,Latur,Madhya Pradesh,200,Speciality
+H0479,Apollo Hospital 0479,Pune,Karnataka,100,Speciality
+H0480,Metro Hospital 0480,Aurangabad,Maharashtra,75,Multi-speciality
+H0481,Lifeline Hospital 0481,Pune,Telangana,100,General
+H0482,City Care Hospital 0482,Solapur,Madhya Pradesh,30,General
+H0483,Unity Hospital 0483,Nanded,Gujarat,100,Speciality
+H0484,Wellness Hospital 0484,Nashik,Telangana,50,General
+H0485,Apollo Hospital 0485,Nanded,Maharashtra,150,General
+H0486,Metro Hospital 0486,Pune,Maharashtra,150,General
+H0487,Metro Hospital 0487,Latur,Gujarat,75,Multi-speciality
+H0488,Apollo Hospital 0488,Pune,Karnataka,50,Speciality
+H0489,Wellness Hospital 0489,Solapur,Maharashtra,30,Multi-speciality
+H0490,City Care Hospital 0490,Jalna,Madhya Pradesh,50,General
+H0491,Sahyadri Hospital 0491,Nanded,Gujarat,50,Speciality
+H0492,Metro Hospital 0492,Solapur,Telangana,100,Speciality
+H0493,Wellness Hospital 0493,Nanded,Telangana,300,Multi-speciality
+H0494,Unity Hospital 0494,Latur,Telangana,30,Multi-speciality
+H0495,Unity Hospital 0495,Pune,Maharashtra,75,Speciality
+H0496,Metro Hospital 0496,Nanded,Madhya Pradesh,500,General
+H0497,City Care Hospital 0497,Jalna,Maharashtra,100,Multi-speciality
+H0498,Wellness Hospital 0498,Latur,Telangana,50,General
+H0499,Apollo Hospital 0499,Nanded,Gujarat,30,Speciality
+H0500,Sunrise Hospital 0500,Nanded,Madhya Pradesh,30,General
